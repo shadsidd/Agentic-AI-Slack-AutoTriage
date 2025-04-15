@@ -98,7 +98,8 @@ Our system implements sophisticated machine learning mechanisms with metacogniti
 
 
 ## Output
-![Uploading Screenshot 2025-04-15 at 9.53.43 PM.png…]()
+![Screenshot 2025-04-15 at 9 53 43 PM](https://github.com/user-attachments/assets/7b5afa49-e531-4b4b-af7b-48b8b62436fe)
+
 
 
 ## Agentic Learning Framework
