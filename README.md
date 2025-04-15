@@ -2,6 +2,11 @@
 
 Eliminate alert fatigue and streamline security operations with our advanced AI-powered auto-triage system. By leveraging multiple specialized autonomous agents, this system automatically processes, analyzes, and responds to security alerts 24/7, reducing manual intervention by up to 80%. Transform your security operations from reactive to proactive while your team focuses on strategic initiatives rather than routine alert management.
 
+There are two scripts `
+1. Auto-Triage Slack alerts using RAG
+2. Agentic Auto Triage using RAG.  [https://github.com/shadsidd/Agentic-AI-Slack-AutoTriage/blob/master/README_AGENTIC_V2.md]
+
+
 ## System Architecture
 
 ```mermaid
