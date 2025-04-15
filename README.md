@@ -69,6 +69,10 @@ sequenceDiagram
     R->>S: Final Response
 ```
 
+## Output
+![Screenshot 2025-04-15 at 10 06 08 PM](https://github.com/user-attachments/assets/3f9e77ce-793e-4c9d-a9ae-3cafc97b3a4e)
+
+
 ## Core Features
 
 ### 1. Smart Alert Processing
