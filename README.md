@@ -6,6 +6,7 @@ There are two scripts `
 1. Auto-Triage Slack alerts using RAG
 2. Agentic Auto Triage using RAG.  [https://github.com/shadsidd/Agentic-AI-Slack-AutoTriage/blob/master/README_AGENTIC_V2.md]
 
+This is RAG-based Auto Triage ReadMe 
 
 ## System Architecture
 
