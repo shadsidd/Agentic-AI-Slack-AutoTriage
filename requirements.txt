@@ -1,0 +1,11 @@
+# Core dependencies
+agno
+openai
+python-dotenv
+psycopg[binary]
+pgvector
+sqlalchemy
+slack-sdk
+slack-bolt
+pyyaml
+python-json-logger
